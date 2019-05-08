@@ -1,0 +1,11 @@
+{
+  "name": "create-jest-babel-tdd",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:fastcopypaste/create-jest-babel-tdd.git",
+  "author": "Chau Giang <giang.ntc@temando.com>",
+  "license": "MIT",
+  "scripts": {
+    "create-jest-babel-tdd": "echo helloworld"
+  }
+}

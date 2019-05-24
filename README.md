@@ -1,6 +1,6 @@
 ## Introduction
 
-This project automatically create Jest with or withour Typescript for TDD training.
+This project automatically create Jest with or without Typescript/Babel for TDD training.
 
 Note: You need to install `yarn` before moving forward.
 
